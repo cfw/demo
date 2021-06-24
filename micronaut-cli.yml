@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, config-kubernetes, gradle, grpc, jackson-xml, java, java-application, jdbc-hikari, jib, jooq, junit, kubernetes, logback, lombok, management, mongo-sync, readme, redis-lettuce, shade, spring, spring-boot, springloaded, sqlserver, testcontainers, yaml]
